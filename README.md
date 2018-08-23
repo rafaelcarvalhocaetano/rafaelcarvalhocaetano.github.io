@@ -1,2 +1,2 @@
-# http://rafaelcarvalhocaetano.github.io/home
+# http://rafaelcarvalhocaetano.github.io
 my website
