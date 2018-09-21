@@ -302,7 +302,7 @@ var AcessoComponent = /** @class */ (function () {
     };
     AcessoComponent.prototype.enviar = function () {
         var _this = this;
-        if (!this.formulario.valid) {
+        if (!this.formulario.invalid) {
             this.verificando(this.formulario);
         }
         else {
